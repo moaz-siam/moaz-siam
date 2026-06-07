@@ -1,24 +1,134 @@
-<h1 align="center">Hi 👋, I'm moaz siam</h1>
-<h3 align="center">Fullstack Web Developer From Palestine</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moaz-siam" alt="moaz-siam" /></a> </p>
+# Moaz B. Siam
+### Full-Stack Web Developer · Gaza, Palestine
 
-- 🌱 I’m currently learning **Learning all about Web development and DevOps**
+![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-0969da?style=flat-square)
+![Projects](https://img.shields.io/badge/Production%20Projects-9%2B-1a7f37?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-Next.js%20%7C%20NestJS%20%7C%20TypeScript-6e40c9?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-e16b16?style=flat-square)
 
-- 💬 Ask me about **ReactJs , NextJs , NodeJs ,ExpressJs ,Nginx , Docker , tailwind , bootstrap , others ...**
+I architect and ship production-grade web applications — from system design and API engineering to containerized deployment on AWS.
+Specialized in building scalable, bilingual platforms for clients across Oman and the Gulf region.
 
-- 📫 How to reach me **moazsiam445@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-moaz--siam-0a66c2?style=flat-square&logo=linkedin)](https://linkedin.com/in/moaz-siam)
+[![Email](https://img.shields.io/badge/Email-moazsiam445@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:moazsiam445@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/moaz_siam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="moaz_siam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/moaz-siam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moaz-siam" height="30" width="40" /></a>
-<a href="https://instagram.com/373s1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="373s1" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moaz-siam&show_icons=true&locale=en&layout=compact" alt="moaz-siam" /></p>
+## 🛠 Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moaz-siam&show_icons=true&locale=en" alt="moaz-siam" /></p>
+**Frontend**
+`React.js` `Next.js (SSR/SSG)` `TypeScript` `TailwindCSS` `JavaScript ES6+` `HTML5` `CSS3` `Bootstrap`
+
+**Backend**
+`Node.js` `NestJS` `Express.js` `REST API Design` `JWT Authentication` `RBAC` `Modular Service Architecture`
+
+**Databases & Caching**
+`MySQL` `Redis` `Relational Schema Design` `Migration Scripting` `Query Optimization`
+
+**DevOps & Cloud**
+`AWS (EC2 / S3)` `Docker` `Nginx` `GitHub Actions` `Linux`
+
+---
+
+## 🚀 Production Projects — All Live
+
+### [Wafir — Omani Deals & Coupons Marketplace](https://wafir-om.com) `Full-Stack`
+> Bilingual (AR/EN) coupon & deals platform for the Omani retail market — available on web, App Store & Google Play.
+
+- Modular NestJS backend with real-time coupon validation, merchant onboarding, and JWT-based RBAC
+- Normalized MySQL schema + Redis caching layer optimized for high-read coupon browsing traffic
+- Next.js SSR frontend with mobile-first design, published on App Store and Google Play
+
+`Next.js` `NestJS` `TypeScript` `MySQL` `Redis` `Docker` `AWS` `TailwindCSS`
+
+---
+
+### [Orchid Tour — Luxury Tourism Platform](https://orchid-tour.com) `Full-Stack`
+> Multilingual (AR/EN/DE) luxury tourism platform for Oman — dynamic tour listings, booking inquiry system, gallery & FAQ.
+
+- SSR/SSG architecture delivering fast page loads and strong SEO for international audiences
+- Backend API managing tour packages, availability data, and inquiry submissions
+- Locale-aware trilingual routing with structured content delivery per language
+
+`Next.js` `NestJS` `MySQL` `Docker` `AWS` `TailwindCSS`
+
+---
+
+### [World of Learning School — Institutional Platform](https://www.wl-school.com/en) `Full-Stack`
+> Bilingual (AR/EN) institutional platform for a Cambridge-curriculum school — KG through Grade 6.
+
+- Dynamic CMS enabling non-technical staff to publish news, events, and blog posts independently
+- Multi-step online enrollment portal replacing manual paper-based admission process
+- Interactive school calendar, academic stage showcase, and parent communication system
+
+`Next.js` `Node.js` `MySQL` `TailwindCSS` `REST API`
+
+---
+
+### [BNKrem — Premium Furniture E-commerce](https://bnkrem.com) `Frontend`
+> Full-featured e-commerce storefront for a premium Omani furniture brand — 8+ product categories.
+
+- Bilingual shopping experience with wishlist, product filtering, and multi-currency support
+- Custom frontend theming over Zid e-commerce infrastructure with branded Arabic/English UI
+- WhatsApp-based customer engagement and inquiry integration
+
+`React.js` `TailwindCSS` `Zid API` `REST Integration`
+
+---
+
+### [Enaya — Human Capital & Intelligence Consulting](https://human-capital-intelligence.vercel.app/) `Frontend`
+> Corporate platform for an organizational intelligence consulting firm — automation-focused positioning.
+
+- Built a professional consulting web presence emphasizing digital transformation and HR automation
+- Clean, performance-focused frontend with structured service pages
+
+`Next.js` `TailwindCSS` `Vercel`
+
+---
+
+### [SCS Oman — Industrial & Process Solutions](https://www.scs-oman.com/) `Full-Stack`
+> Corporate platform for a leading industrial engineering firm serving the Middle East market.
+
+- Engineered a high-performance corporate web platform for an industrial & process solutions provider
+- Built product/service catalog showcasing engineering capabilities across valves, instrumentation, and filtration
+- SEO-optimized architecture for B2B lead generation across the Gulf market
+
+`Next.js` `Node.js` `MySQL` `TailwindCSS` `AWS`
+
+---
+
+### Additional Delivered Projects
+
+| Project | Type | Live |
+|---------|------|------|
+| Al-Khalawi Industrial & Oman Pipes Group | B2B Corporate Portal | [alkhalawisteel.com](https://alkhalawisteel.com/ar) |
+| MFE Oman | Corporate Website | [mfe-oman.com](https://mfe-oman.com) |
+| Choolo Tours | Luxury Tourism Frontend | [choolotours.com](https://choolotours.com) |
+| Tatabq | Frontend Development | [tatabq.com](http://tatabq.com) |
+
+---
+
+## 📊 At a Glance
+
+| | |
+|---|---|
+| 🏗 **9+ production projects** delivered end-to-end | 🌍 **3 languages** across platforms — Arabic · English · German |
+| ⚡ **2+ years** of real-world client experience | ✅ **100%** of listed projects live in production |
+| 🏢 Delivered for **corporate, e-commerce, tourism & education** sectors | ☁️ **AWS + Docker** containerized deployments |
+
+---
+
+## 📬 Get in Touch
+
+- 💼 [linkedin.com/in/moaz-siam](https://linkedin.com/in/moaz-siam)
+- 📧 [moazsiam445@gmail.com](mailto:moazsiam445@gmail.com)
+
+---
+
+<div align="center">
+  <sub>All client projects are private repositories — live sites available for review above.</sub>
+</div>
